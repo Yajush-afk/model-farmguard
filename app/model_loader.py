@@ -6,7 +6,7 @@ from PIL import Image
 import numpy as np
 from tensorflow.keras.models import load_model#type:ignore
 
-DEFAULT_MODEL_REL_PATH = os.path.join(os.path.dirname(__file__), "..", "models", "tomato_final_demo.h5")
+DEFAULT_MODEL_REL_PATH = os.path.join(os.path.dirname(__file__), "models", "tomato_final_demo.h5")
 MODEL_PATH = os.getenv("MODEL_PATH", DEFAULT_MODEL_REL_PATH)
 
 _MODEL = None
