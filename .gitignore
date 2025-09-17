@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.h5
+*.keras
+*.npy
+*.npz
+
+# FastAPI virtual environment
+venv/
+.env/
+.venv/
+.envrc
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+pnpm-debug.log
+
+# Build / Logs
+dist/
+build/
+.DS_Store
+*.log
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+
+# Docker
+*.pid
+*.seed
+*.pid.lock
+
+# OS generated
+Thumbs.db
