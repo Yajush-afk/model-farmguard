@@ -82,9 +82,6 @@ matplotlib
 matplotlib-inline
 mdurl
 mistune
-mkl-service==2.5.2
-mkl_fft
-mkl_random
 ml_dtypes
 mpi4py
 mpmath
