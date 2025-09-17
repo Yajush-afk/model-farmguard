@@ -161,7 +161,7 @@ threadpoolctl
 tinycss2
 tomli
 torch==2.5.1
-torchaudio==2.5.1
+torchaudio>=2.6.0,<2.9.0
 torchvision
 tornado
 tqdm
