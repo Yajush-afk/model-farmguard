@@ -97,8 +97,8 @@ networkx
 notebook_shim
 numpy
 oauthlib
-opencv-python==4.10.0
-opencv-python-headless==4.10.0
+opencv-python>=4.10.0
+opencv-python-headless>=4.10.0
 opt_einsum
 optree
 overrides
