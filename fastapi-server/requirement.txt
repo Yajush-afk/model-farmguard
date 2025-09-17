@@ -83,7 +83,7 @@ matplotlib==3.10.5
 matplotlib-inline
 mdurl
 mistune
-mkl-service==2.4.0
+mkl-service
 mkl_fft
 mkl_random
 ml_dtypes
