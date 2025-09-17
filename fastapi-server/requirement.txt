@@ -75,15 +75,14 @@ jupyterlab_server
 keras
 kiwisolver
 lark
-libclang==18.1.1
 Markdown
 markdown-it-py
 MarkupSafe
-matplotlib==3.10.5
+matplotlib
 matplotlib-inline
 mdurl
 mistune
-mkl-service
+mkl-service==2.5.2
 mkl_fft
 mkl_random
 ml_dtypes
@@ -99,7 +98,7 @@ nbformat
 nest_asyncio
 networkx
 notebook_shim
-numpy==1.26.4
+numpy
 oauthlib
 opencv-python==4.10.0
 opencv-python-headless==4.10.0
@@ -130,8 +129,6 @@ pycparser
 Pygments
 pyOpenSSL
 pyparsing
-PySide6==6.7.3
-PySocks
 python-dateutil
 python-json-logger
 pytz
@@ -150,7 +147,6 @@ scikit-learn
 scipy
 seaborn
 Send2Trash
-shiboken6==6.7.3
 six
 sniffio
 soupsieve
