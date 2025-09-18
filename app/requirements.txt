@@ -4,10 +4,6 @@ uvicorn
 tensorflow>=2.20.0,<2.21.0
 tensorboard>=2.20.0,<2.21.0
 
-torch==2.5.1
-torchaudio==2.8.0
-torchvision
-
 protobuf>=4.23.0,<4.24.0
 
 h5py
