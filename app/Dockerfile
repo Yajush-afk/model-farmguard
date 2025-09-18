@@ -9,7 +9,7 @@ WORKDIR /app
 COPY . .
 
 # Install project dependencies
-RUN pip install --no-cache-dir -r requirements.txt
+RUN pip install --no-cache-dir -r requirement.txt
 
 # Run the web service on container startup.
 CMD ["hypercorn", "main:app", "--bind", "::"]
